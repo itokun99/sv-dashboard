@@ -5,7 +5,7 @@ const appInfo = {
 
 const appConfig = {
   baseUrl: {
-    api: 'http://sharingvision-backend.herokuapp.com'
+    api: 'https://sharingvision-backend.herokuapp.com'
   }
 }
 

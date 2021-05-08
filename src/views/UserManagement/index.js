@@ -127,7 +127,7 @@ const UserManagement = ({ history }) => {
   return (
     <div className="animated fadeIn">
       <Row>
-        <Col xl={6}>
+        <Col xs={12}>
           <Card>
             <CardHeader>
               <i className="fa fa-align-justify"></i> User Management
